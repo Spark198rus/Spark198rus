@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript, JQuery, AJAX, PHP and all that for web
 - 💞️ I’m looking to collaborate on anything and try myself on backend
-- 📫 How to reach me: spark198@icloud.com
+- 📫 How to reach me: dev@spark198.ru
 
 <!---
 Spark198rus/Spark198rus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

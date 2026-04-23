@@ -2,4 +2,4 @@
 - 👀 I’m interested in desktop development
 - 🌱 I’m currently learning dotnet
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: dev@spark198.ru
+- 📫 How to reach me: me@spark198.ru
